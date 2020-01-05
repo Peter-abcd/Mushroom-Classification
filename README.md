@@ -13,7 +13,6 @@ Machine Learning Practice. Implimenting the project following the Chapter-3 proj
 <ol>
     <li>Supervised Learning task, because given labeled traning examples.</li>
     <li>Classification task.</li>
-    <li></li>
 </ol>
 
 **Data:** [Mushroom Classification | Kaggle](https://www.kaggle.com/uciml/mushroom-classification)<br>
